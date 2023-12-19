@@ -1,6 +1,6 @@
 # Piano-virtual-js 🎹🎵👨🏾‍💻
 
- Piano feito pelo desafio proposto no Bootcamp Potência Tech Ifood - Desenvolvimento de Jogos da [DIO](https://www.dio.me/)! 
+ Simulador de Piano virtual feito pelo desafio proposto no Bootcamp Potência Tech Ifood - Desenvolvimento de Jogos da [DIO](https://www.dio.me/)! 
 
 ## Tecnologias Utilizadas 👨🏾‍💻
 
